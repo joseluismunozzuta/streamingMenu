@@ -44,3 +44,6 @@ For compilation:
 - Ubuntu 18.04
 
 ```gcc -o menu menu.c -lSDL2 -lSDL2_image -lSDL2_ttf -I/usr/local/include/cjson -L/usr/lib/x86_64-linux-gnu -lcjson -lcurl```
+
+To execute the application:
+```./menu```
